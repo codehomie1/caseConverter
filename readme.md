@@ -13,7 +13,8 @@ and responsive design.
 
 <h2>Stage 1 : Web App layout </h2>
 This is the page layout simple: My goal is to make this responsive.
-![Screenshot](project_img.png)
+![image](https://user-images.githubusercontent.com/96314847/213888924-8f285e3a-70c7-4af1-8eaf-6c6a70593f14.png)
+
 
 <h2> Stage 2: Implement Btn Functions</h2>
 In this stage I am working on implementing each of the buttons functions
