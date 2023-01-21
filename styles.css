@@ -1,0 +1,22 @@
+
+
+ * {
+    font-family: -apple-system, system-ui ,serif;
+}
+
+.title {
+   font-size: 2rem;
+   font-weight: bold;
+}
+
+.btn-container {
+   display: block;
+}
+
+button {
+   background-color: lightsalmon;
+   border: none;
+   border-radius: 2px;
+   padding: 6px;
+   margin: 11px;
+}
