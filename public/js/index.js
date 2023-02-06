@@ -17,7 +17,13 @@ lowerCaseBtn.addEventListener("click", function () {
 })
 
 properCaseBtn.addEventListener("click", function () {
-    alert("proper-case")
+   let input = textAreaElement.value.split(" ");
+
+   let properCaseArr = input.map( (ele) =>  ele[0].toUpperCase() + ele.substring(1).toLowerCase() );
+
+   let properCasetext = properCaseArr.join(" ");
+
+   textAreaElement.value = properCasetext;
 })
 
 sentenceBtn.addEventListener("click", function () {
